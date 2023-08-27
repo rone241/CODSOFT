@@ -2,8 +2,8 @@
 INTERNSHIP PROJECT
 
 TASK :1
-TITLE: NUMBER_GAME
-LANGUAGE: JAVA
+TITLE: NUMBER_GAME.
+LANGUAGE: JAVA.
 DESCRIPTION: 
 
 1. Generate a random number within a specified range, such as 1 to 100.
